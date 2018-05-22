@@ -2,7 +2,7 @@
 
 Youtube Instructional Videos
 
-https://www.youtube.com/watch?v=H0XScE08hy8 Get started debugging JavaScript with Chrome
+https://bit.ly/2GF7qSG Get started debugging JavaScript with Chrome
 
 
 Instructional blog posts
