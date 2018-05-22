@@ -1,1 +1,1 @@
-# javascript-coderdojoalwyn
+# javascript-coderdojobalwyn
